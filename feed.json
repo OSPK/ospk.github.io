@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://waqas.xyz/test.html",
-            "url": "https://waqas.xyz/test.html",
+            "id": "https://waqas.xyz/test/",
+            "url": "https://waqas.xyz/test/",
             "title": "Test",
             "summary": " It Works? ",
             "content_html": "\n  <p>\n    It Works?\n  </p>",
