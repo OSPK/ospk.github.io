@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>waqas.xyz</title>
+    <link href="https://waqas.xyz/feed.xml" rel="self" />
+    <link href="https://waqas.xyz" />
+    <updated>2020-12-05T11:30:25-05:00</updated>
+    <author>
+        <name>Waqas Ahmed</name>
+    </author>
+    <id>https://waqas.xyz</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Waqas Ahmed</name>
+        </author>
+        <link href="https://waqas.xyz/test.html"/>
+        <id>https://waqas.xyz/test.html</id>
+
+        <updated>2020-12-05T11:30:25-05:00</updated>
+            <summary>
+                <![CDATA[
+                     It Works? 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    It Works?
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

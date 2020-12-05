@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "waqas.xyz",
+    "description": "",
+    "home_page_url": "https://waqas.xyz",
+    "feed_url": "https://waqas.xyz/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Waqas Ahmed"
+    },
+    "items": [
+        {
+            "id": "https://waqas.xyz/test.html",
+            "url": "https://waqas.xyz/test.html",
+            "title": "Test",
+            "summary": " It Works? ",
+            "content_html": "\n  <p>\n    It Works?\n  </p>",
+            "author": {
+                "name": "Waqas Ahmed"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-05T11:30:25-05:00",
+            "date_modified": "2020-12-05T11:30:25-05:00"
+        }
+    ]
+}
