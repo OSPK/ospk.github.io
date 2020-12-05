@@ -3,7 +3,7 @@
     <title>waqas.xyz</title>
     <link href="https://waqas.xyz/feed.xml" rel="self" />
     <link href="https://waqas.xyz" />
-    <updated>2020-12-05T11:30:25-05:00</updated>
+    <updated>2020-12-05T11:44:06-05:00</updated>
     <author>
         <name>Waqas Ahmed</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://waqas.xyz/test/"/>
         <id>https://waqas.xyz/test/</id>
 
-        <updated>2020-12-05T11:30:25-05:00</updated>
+        <updated>2020-12-05T11:44:06-05:00</updated>
             <summary>
                 <![CDATA[
-                     It Works? 
+                     It Works? https://twitter.com/zuhair_abbasi/status/1334850777786036229?s=20 
                 ]]>
             </summary>
         <content type="html">
@@ -28,6 +28,10 @@
                 
   <p>
     It Works?
+  </p>
+
+  <p>
+    https://twitter.com/zuhair_abbasi/status/1334850777786036229?s=20
   </p>
             ]]>
         </content>
